@@ -57,17 +57,6 @@ El proyecto toma como referencia:
 -   Literatura científica sobre eficiencia energética, eficiencia
     hídrica, economía circular y gestión de RAEE
 
-## Estructura
-
-``` text
-/
-├── 1 - Planificación del Sistema de Gestión Ambiental.xlsx
-├── 2 - Diseño del SGA.xlsx
-├── 3 - Monitoreo, medición y registro de datos del SGA.xlsx
-├── 4 - Evaluación del desempeño del SGA.xlsx
-├── 5 - Proceso de revisión y mejora del SGA.xlsx
-└── README.md
-```
 
 ## 📎 Autor 
 **Iván Blanco Ruiz**  
