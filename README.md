@@ -69,8 +69,8 @@ El proyecto toma como referencia:
 └── README.md
 ```
 
-## Autor
+## 📎 Autor 
+**Iván Blanco Ruiz**  
+Graduado en Física – Universidad de Sevilla  
 
-Proyecto desarrollado por **Iván Blanco Ruiz** como actividad académica basada en la
-implantación de un Sistema de Gestión Ambiental conforme a ISO
-14001:2015.
+📧 [blancoruizivan@gmail.com](mailto:blancoruizivan@gmail.com)
